@@ -1,0 +1,9 @@
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\bin\Debug\OpenCvSharp.dll
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.IET.resources
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.Cache
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\Sathveegan\documents\visual studio 2015\Projects\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
